@@ -1,2 +1,2 @@
-# portfolio
-Simple Portfolio 
+# Personal Portfolio - Tharun Kumaar
+
